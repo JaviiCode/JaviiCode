@@ -13,11 +13,10 @@
 ### 🌌 **About Me**
 
 <p align="center">
-  💜 I'm a <b>proactive student</b> passionate about technology and web development. <br>
-  🛠️ My main focus is on <b>backend</b> and database management, while also building a solid foundation in <b>frontend</b>. <br>
-  🌱 I enjoy learning and exploring technologies like <b>Laravel</b>, <b>Angular</b>, <b>MySQL</b>, and <b>PostgreSQL</b>. <br>
-  🚀 I'm seeking my first professional opportunity to contribute, learn, and grow in innovative projects. <br>
-  ✨ I'm always ready for new challenges and excited to keep growing in the world of development!
+  💜 Hi, I'm <b>Javi</b>, a proactive student of Web Application Development about to enter the professional world. <br>
+  🛠️ On my profile, you'll find the projects and activities I work on daily to keep learning. <br>
+  🌱 I'm always exploring new technologies and improving my skills. <br>
+  🚀 Welcome to my coding corner!
 </p>
 
 ---
